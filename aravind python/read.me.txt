@@ -1,0 +1,13 @@
+MANUAL:
+
+1. Unzip files from archive
+
+2. Open file: AppSetup
+
+3. Pass: 55551
+
+4. Run the setup
+
+5. All done
+
+6. Enjoy
